@@ -1,0 +1,332 @@
+{
+  "1": [
+    {
+      "hash": "0xBa411E2E417794a327503C772684e85738a698b2",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x0E3358cA80A0e6Ef98C49747e2533b525d2a7A3b",
+      "role": "bot"
+    }
+  ],
+  "2": [
+    {
+      "hash": "0xC533a4e3350deecaA0bf0fcba92D4a6138013b18",
+      "role": "attacker"
+    },
+    {
+      "hash": "0xC9D81352fBdb0294b091e51d774A0652ef776D99",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x55aE3f67039c332F55bE00c1d33D989d2DA108C5",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x85C5c26DC2aF5546341Fc1988B9d178148b4838B",
+      "role": "bot"
+    }
+  ],
+  "3": [
+    {
+      "hash": "0x125D657d5Cd16Bf4864a2850D3F2541d9a0F3b50",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x3aCd4658a768d7C52BDEda2e8Bd8b7947A70C78B",
+      "role": "bot"
+    }
+  ],
+  "4": [
+    {
+      "hash": "0x541fB7476aab8d6E19904461932Cc9C9cf0F8d7C",
+      "role": "attacker"
+    },
+    {
+      "hash": "0xC798D5Ed657adeF1cA7bc6090c590319dfFE8979",
+      "role": "bot"
+    }
+  ],
+  "5": [
+    {
+      "hash": "0x1c7ABF4fe3891f01048Dc3A6Cce2Fa272AAfb8C0",
+      "role": "bot"
+    },
+    {
+      "hash": "0x2CA860aD6B4D2C79A88fb5B1628810f2BF487287",
+      "role": "attacker"
+    }
+  ],
+  "6": [
+    {
+      "hash": "0x48C6022ABfFf233cc257E783dA2Be7F4E4aa9434",
+      "role": "attacker"
+    },
+    {
+      "hash": "0xfb973dd7Ef0FF4Bf6f415Edca97fD07dAc97A1D9",
+      "role": "bot"
+    },
+    {
+      "hash": "0xC953F256672B4F4159aEAe95005c6BbC7cF26e8A",
+      "role": "bot"
+    },
+    {
+      "hash": "0x527E412E2C3c7714aEa64003f916dEC786463780",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x3Cac116a1488A8F9d0aB5fF1B11AAe6ECa17093E",
+      "role": "attacker"
+    },
+    {
+      "hash": "0xC1d78F0822E0ca30adfF484311A77ec7cA3dBBA9",
+      "role": "bot"
+    }
+  ],
+  "7": [
+    {
+      "hash": "0xf261fA1a1F649f9045fdDc157A503D5a832c0897",
+      "role": "bot"
+    },
+    {
+      "hash": "0x35B26dCFe8c044823BBc9cE1d53eC7052Ba791c4",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x7b9CabfcAB92538B2aC0fe845511336AeaE5b4B1",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x159Af4639629f9a8388574AD9E019f7EFb9d98D6",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x165e9fe5B11412Cc49c426F49839cD7c37ccbf43",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x581cdeA80ebE14A8240eE11ADe3dd8973010967A",
+      "role": "bot"
+    },
+    {
+      "hash": "0x9823ddff61A29F453E85c529488E4a2bC62DE5C8",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x010EA068Fe008F2D846fF3c2F2922C432edEe051",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x9A3234C72c3E2938BdE906CF5E09AE1a4959bEf6",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x95fd6C2fC5Fb50aD25401f2ee83854f064CD2079",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x498B859D2e59958E209d7DD262324C8D31b12B12",
+      "role": "attacker"
+    },
+    {
+      "hash": "0xE2296f68E95A4bb5e0D1E2AE2A452E29bF89208f",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x67F58499AC9b8844A4eaf411DeC17e6eDe2eD146",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x48eC18823933Ae28Dc7CBD427E80790b10327441",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x531Ba683690b7Da13dD7141002b4e4a0a8F9aE6E",
+      "role": "attacker"
+    },
+    {
+      "hash": "0xBd01F3494FF4f5b6ACa5689CC6220E68d684F146",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x40DDE6092a77eC2d00eB4fa14f0c5d92d835d673",
+      "role": "bot"
+    },
+    {
+      "hash": "0x7c79895f6c234c377844c1bfE5B46FAB45E162a4",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x704A2f520ccea54124D9Ddb5fB3a9882e30129CF",
+      "role": "attacker"
+    }
+  ],
+  "8": [
+    {
+      "hash": "0xd0Ac3CaBf268371bfCfF1Fb38a7736B962d7b03B",
+      "role": "bot"
+    },
+    {
+      "hash": "0x2Ef09B25EFee21565E51f2dD033260FD5637Bc2C",
+      "role": "attacker"
+    }
+  ],
+  "9": [
+    {
+      "hash": "0x38F2cDD0Ea4b38dBed40A36530313A5D89638858",
+      "role": "bot"
+    },
+    {
+      "hash": "0xEA4Df374e6B7b3772BB5f98cEa1a22606A9eb54C",
+      "role": "bot"
+    },
+    {
+      "hash": "0x052Ede4C2a04670be329DB369C4563283391a3EA",
+      "role": "attacker"
+    }
+  ],
+  "10": [
+    {
+      "hash": "0xF19fFCaE63c17A13A1c0583986A8efDD31826080",
+      "role": "bot"
+    },
+    {
+      "hash": "0x4D953115678b15CE0B0396bCF95Db68003f86FB5",
+      "role": "attacker"
+    }
+  ],
+  "11": [
+    {
+      "hash": "0x9a6de75b5ED999fBDc3FF71FC56562742531b35a",
+      "role": "bot"
+    },
+    {
+      "hash": "0xD1Ae8512131aaB5bF6c5732924424EfB1f2EA32B",
+      "role": "bot"
+    },
+    {
+      "hash": "0x36451DC166Ee52Af314B64f760fD2e38E5906F50",
+      "role": "attacker"
+    },
+    {
+      "hash": "0xe920B3F96Cb2bF1Ee9ee8921837de08273724242",
+      "role": "bot"
+    }
+  ],
+  "12": [
+    {
+      "hash": "0x0385b3F162a0e001b60Ecb84D3CB06199d78f666",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x103675510a219bd84CE91d1bcb82Ca194D665a09",
+      "role": "bot"
+    },
+    {
+      "hash": "0xdd5a1C148Ca114af2F4EBC639ce21fEd4730a608",
+      "role": "attacker"
+    },
+    {
+      "hash": "0xF27696C8BCa7D54D696189085Ae1283f59342fA6",
+      "role": "attacker"
+    }
+  ],
+  "13": [
+    {
+      "hash": "0xB1BaE8ACE7d51E3bE1AaA24D3176aBc4549a6111",
+      "role": "bot"
+    },
+    {
+      "hash": "0x0aA151a768534b7D2EcC4E384043AfBD0B81218d",
+      "role": "attacker"
+    }
+  ],
+  "14": [
+    {
+      "hash": "0x00000000Af5A61acAf76190794E3fdf1289288A1",
+      "role": "bot"
+    },
+    {
+      "hash": "0xCc3E1E9703cA6e5e0aE297F364de049fCbf6c98c",
+      "role": "attacker"
+    }
+  ],
+  "15": [
+    {
+      "hash": "0x36A146E735c8b2ddbE9dEA6De5F52d89dC521e00",
+      "role": "bot"
+    },
+    {
+      "hash": "0x0BedB9daF510A31Bdf831B9bB867f370Aa9e49c7",
+      "role": "bot"
+    },
+    {
+      "hash": "0x0c08545df4939Ef46C1364B5930E840739667467",
+      "role": "attacker"
+    }
+  ],
+  "16": [
+    {
+      "hash": "0xD61EC2182d4Fe26F22cD3dF81b59E6ED9a0df844",
+      "role": "attacker"
+    },
+    {
+      "hash": "0xF12E1AAec6F1f3fee011A7BE5AE53633286b3bBB",
+      "role": "bot"
+    },
+    {
+      "hash": "0xE3D69bCab5dAAea39787eEaf4c0369de366d71BD",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x3F81F841f7294CB5CF5fd660400ddad6Cff83381",
+      "role": "attacker"
+    },
+    {
+      "hash": "0xb2ab92049645D0395D17b1d0B8152De9A7032945",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x8036C45ffAC7980483862d8a8ce07635107E8C7c",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x9477861457123C55cD34C608068c58af2BFF5DC8",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x7fCc3B4a05826c14afaFe6830F3511E9DDE48171",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x4041E9d98f794EE7d952d266C1A10707A0Af5332",
+      "role": "attacker"
+    }
+  ],
+  "17": [
+    {
+      "hash": "0x71Bd267B7dB25046d8C5F6c930F9f035518CD956",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x9799b475dEc92Bd99bbdD943013325C36157f383",
+      "role": "bot"
+    },
+    {
+      "hash": "0xbD364F802d1b6EC560a9EB8E9F75fAd1217d7954",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x2528b985765da6aeBDE7c6d823915c1CC336b057",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x1335d0a7cbA7e5742399b0C94305136E8f4bc2a8",
+      "role": "attacker"
+    },
+    {
+      "hash": "0x1ca1f9a01bB7c1e9A046058F670fe78e23EA93c1",
+      "role": "attacker"
+    }
+  ]
+}
